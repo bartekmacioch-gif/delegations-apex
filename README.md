@@ -39,31 +39,31 @@ Login screen with password hashing mechanism.
 
 ### Dashboard
 Main dashboard with quick access to core functions.  
-![Home](docs/screenshots/home.png)
+![Home](docs/screenshots/home.png.png)
 
 ### User Panel
 User panel – view and manage your own delegations and expenses.  
-![User Panel](docs/screenshots/user_panel.png)
+![User Panel](docs/screenshots/user_panel.png.png)
 
 ### Delegation Form
 Form for creating a business delegation (country, start and end dates, notes).  
-![Delegation Form](docs/screenshots/delegation_form.png)
+![Delegation Form](docs/screenshots/delegation_form.png.png)
 
 ### Expenses Form
 Form for recording expenses (amount, type, description, attachments).  
-![Expenses Form](docs/screenshots/expenses_form.png)
+![Expenses Form](docs/screenshots/expenses_form.png.png)
 
 ### Manager Panel
 Manager panel – approve delegations and expenses submitted by employees.  
-![Manager Panel](docs/screenshots/menager_panel.png)
+![Manager Panel](docs/screenshots/menager_panel.png.png)
 
 ### Admin Panel
 Admin panel – manage employees, roles, and permissions.  
-![Admin Panel](docs/screenshots/admin_panel.png)
+![Admin Panel](docs/screenshots/admin_panel.png.png)
 
 ### Database ERD
 Entity-relationship diagram of the database schema.  
-![ERD](docs/screenshots/erd.png)
+![ERD](docs/screenshots/erd.png.png)
 
 ---
 
